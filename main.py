@@ -5,4 +5,4 @@ import matplotlib.pyplot as plt
 x = np.array([])
 y = np.array([])
 
-# criando o gráfico de dispersão
+# grafico
